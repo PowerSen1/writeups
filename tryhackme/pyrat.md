@@ -1,3 +1,7 @@
+---
+description: TryHackMe CTF
+---
+
 # Pyrat
 
 Durante a rotina contínua de estudos e preparação para certificações práticas, ou mesmo durante uma caçada a bugs em aplicações web, encontrar portas rodando serviços customizados é sempre um indicativo de que precisamos adaptar nossa metodologia. Ferramentas automatizadas nem sempre entendem o contexto de um socket cru, e é aí que a análise manual brilha.
